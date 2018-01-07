@@ -1,2 +1,3 @@
 # hello-world
-Git to learn
+Get to learn Git 
+re-familiarizing with Git that I started with R course in 2013
